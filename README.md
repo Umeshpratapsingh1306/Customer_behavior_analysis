@@ -3,7 +3,7 @@
 
 This project focuses on analyzing customer purchasing behavior using Python, SQL, and Power BI. The workflow includes data loading, exploratory data analysis (EDA), data cleaning, SQL-based business analysis, and interactive dashboard creation. The objective of the project is to generate meaningful business insights from customer transaction data and present them through a professional dashboard and report.
 
-## Dataset
+### Dataset
 
 The dataset contains customer-related information such as:
 
@@ -81,7 +81,7 @@ CTEs
 GROUP BY
 Power BI Dashboard
 
-## Built an interactive Power BI dashboard to visualize key business metrics.
+### Built an interactive Power BI dashboard to visualize key business metrics.
 
 Dashboard Features
 KPI Cards
@@ -92,9 +92,9 @@ Subscription status distribution
 Gender-based analysis
 Interactive slicers and filters
 
-## The dashboard enables quick business decision-making through dynamic visualizations.
+### The dashboard enables quick business decision-making through dynamic visualizations.
 
-# Key Insights
+### Key Insights
 Identified top-performing product categories
 Analyzed customer purchasing patterns
 Evaluated discount effectiveness
@@ -109,7 +109,7 @@ Customer-Behavior-Analysis/
 ├── powerbi_dashboard/
 ├── reports/
 ├── README.md
-## How to Run the Project
+### How to Run the Project
 1. Clone Repository
 git clone <repository_link>
 2. Install Required Libraries
@@ -118,7 +118,7 @@ pip install pandas numpy matplotlib seaborn sqlalchemy pymysql
 jupyter notebook
 4. Configure MySQL Connection
 
-## Update database credentials in Python:
+### Update database credentials in Python:
 
 host = "localhost"
 username = "root"
@@ -141,4 +141,4 @@ SQL analysis
 Business intelligence reporting
 Dashboard development
 
-## The project highlights practical skills in Python, SQL, and Power BI for solving real-world business problems and generating actionable insights.
+### The project highlights practical skills in Python, SQL, and Power BI for solving real-world business problems and generating actionable insights.
