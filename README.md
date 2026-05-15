@@ -1,9 +1,9 @@
-## Customer Behavior Analysis Project
-# Overview
+# Customer Behavior Analysis Project
+## Overview
 
 This project focuses on analyzing customer purchasing behavior using Python, SQL, and Power BI. The workflow includes data loading, exploratory data analysis (EDA), data cleaning, SQL-based business analysis, and interactive dashboard creation. The objective of the project is to generate meaningful business insights from customer transaction data and present them through a professional dashboard and report.
 
-# Dataset
+## Dataset
 
 The dataset contains customer-related information such as:
 
@@ -34,7 +34,7 @@ MySQL	SQL querying and analysis
 MySQL Workbench	Database management
 Microsoft Power BI	Dashboard and reporting
 Jupyter Notebook	Project development environment
-# Project Workflow
+## Project Workflow
 1. Data Loading
 Imported dataset into Python using Pandas
 Connected Python with MySQL database using SQLAlchemy and PyMySQL
@@ -63,7 +63,7 @@ Correcting data types
 Feature engineering for customer segmentation
 4. SQL Analysis
 
-# Executed SQL queries in MySQL to generate business insights such as:
+## Executed SQL queries in MySQL to generate business insights such as:
 
 - Total revenue
 - Average purchase amount
@@ -73,7 +73,7 @@ Feature engineering for customer segmentation
 - Subscription analysis
 - Purchase frequency analysis
 
-# Used:
+## Used:
 
 Aggregate functions
 CASE statements
@@ -81,7 +81,7 @@ CTEs
 GROUP BY
 Power BI Dashboard
 
-# Built an interactive Power BI dashboard to visualize key business metrics.
+## Built an interactive Power BI dashboard to visualize key business metrics.
 
 Dashboard Features
 KPI Cards
@@ -92,7 +92,7 @@ Subscription status distribution
 Gender-based analysis
 Interactive slicers and filters
 
-# The dashboard enables quick business decision-making through dynamic visualizations.
+## The dashboard enables quick business decision-making through dynamic visualizations.
 
 # Key Insights
 Identified top-performing product categories
@@ -109,7 +109,7 @@ Customer-Behavior-Analysis/
 ├── powerbi_dashboard/
 ├── reports/
 ├── README.md
-# How to Run the Project
+## How to Run the Project
 1. Clone Repository
 git clone <repository_link>
 2. Install Required Libraries
@@ -118,7 +118,7 @@ pip install pandas numpy matplotlib seaborn sqlalchemy pymysql
 jupyter notebook
 4. Configure MySQL Connection
 
-# Update database credentials in Python:
+## Update database credentials in Python:
 
 host = "localhost"
 username = "root"
@@ -132,7 +132,7 @@ Run SQL scripts using MySQL Workbench.
 
 Open the .pbix file in Microsoft Power BI to explore the dashboard.
 
-# Conclusion
+## Conclusion
 
 This project demonstrates end-to-end data analytics workflow including:
 
@@ -141,4 +141,4 @@ SQL analysis
 Business intelligence reporting
 Dashboard development
 
-# The project highlights practical skills in Python, SQL, and Power BI for solving real-world business problems and generating actionable insights.
+## The project highlights practical skills in Python, SQL, and Power BI for solving real-world business problems and generating actionable insights.
